@@ -44,7 +44,7 @@ const Home = () => {
             </div>
           </div>
           <div className="bg-[#fe5617] px-5 py-2 rounded-2xl font-bold ">
-            <a href="./public/Chakra-bio.pdf" download={"Resume"}>Download CV</a>
+            <a href="/Chakra-bio.pdf" download={"Resume"}>Download CV</a>
           </div>
         </div>
         <div className="order-1 lg:order-2 flex justify-end items-center">
